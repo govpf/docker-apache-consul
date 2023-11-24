@@ -35,3 +35,4 @@ Les cas de comportements abusifs, harcelants ou tout autre comportement inaccept
 ## Attribution
 
 Ce Code de Conduite est adaptée du Contributor Covenant (http://contributor-covenant.org), version 1.4.0, disponible à http://contributor-covenant.org/version/1/4/0/fr
+
