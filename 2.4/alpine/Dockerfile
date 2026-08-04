@@ -1,6 +1,6 @@
 FROM govpf/apache:2.4-alpine
 
-LABEL govpf.category="webserver"
+LABEL govpf.category="server"
 LABEL govpf.fromimage="govpf/apache:2.4-alpine"
 
 USER root
