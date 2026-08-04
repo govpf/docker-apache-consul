@@ -1,5 +1,8 @@
 FROM govpf/apache:2.4-alpine
 
+LABEL govpf.category="webserver"
+LABEL govpf.fromimage="govpf/apache:2.4-alpine"
+
 USER root
 
 ENV CONSUL_TEMPLATE_VERSION 0.35.0
